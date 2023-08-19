@@ -1,0 +1,31 @@
+.header_logo{
+    height: 50px;
+    width: 150px;
+}
+
+.header_nav a{
+    margin: 3px 10px;
+    text-decoration: none;
+    color: black;
+}
+.header_nav a:hover{
+    color: #2340e3;
+}
+
+.row_1{
+    background-color: #a347bb;
+}
+
+.page_content{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 5px;
+}
+
+.content_buttons{
+    margin-left: 300px;
+}
+
+.text-center{
+    margin-left: 200px;
+}
